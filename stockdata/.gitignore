@@ -1,0 +1,6 @@
+# 텔레그램 봇 토큰이 포함되므로 커밋 금지
+send.py
+send_url*.txt
+# 재조회용 임시 파일
+r_*.json
+retry1_*.json
