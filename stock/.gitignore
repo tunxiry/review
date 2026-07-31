@@ -1,0 +1,2 @@
+# 매 실행마다 stockanalysis.com에서 새로 받는 시세 스냅샷
+*.json
