@@ -1,0 +1,6 @@
+# Fetched market data (regenerated each run)
+*.json
+
+# Contains the Telegram bot token — never commit
+send.py
+url.txt
